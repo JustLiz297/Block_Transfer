@@ -1,4 +1,4 @@
-# Program By: Elizabeth (Liz) Boyle (10659314)
+# Program By: Elizabeth (Liz) Boyle
 # Section: (B)
 # This program takes a certain number of integers from one block and moves it to another
 
